@@ -1,0 +1,5 @@
+{
+  "name": "Time Track",
+  "description": "A comprehensive time tracking and payroll management system with role-based access, PIN entry, and Excel export capabilities.",
+  "requestFramePermissions": []
+}
